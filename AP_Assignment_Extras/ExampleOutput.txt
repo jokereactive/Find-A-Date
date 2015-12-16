@@ -1,0 +1,97 @@
+Example output of the code:
+Sarthak's Friend Plot: New Delhi, India
+Count of my friends: 87
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Gurgaon, Haryana
+{lat=28.4594965, lng=77.0266383}
+Dehra Dun, India
+{lat=30.3164945, lng=78.03219179999999}
+Allahabad, India
+{lat=25.4358011, lng=81.846311}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Gurgaon, Haryana
+{lat=28.4594965, lng=77.0266383}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Meerut, Uttar Pradesh
+{lat=28.9844618, lng=77.7064137}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Faridabad
+{lat=28.4089123, lng=77.3177894}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Hyderabad, India
+{lat=17.385044, lng=78.486671}
+Chennai, India
+{lat=13.0826802, lng=80.2707184}
+Hapur
+{lat=28.73057979999999, lng=77.7758825}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Sri Ganganagar
+{lat=29.9038399, lng=73.87719009999999}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Ludhiana, Punjab
+{lat=30.900965, lng=75.8572758}
+Delhi, India
+{lat=28.6139391, lng=77.2090212}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Almora
+{lat=29.5892407, lng=79.646666}
+New Delhi, India
+{lat=28.6139391, lng=77.2090212}
+Faridabad
+{lat=28.4089123, lng=77.3177894}
